@@ -31,8 +31,8 @@ An advanced AI agent that combines video analysis and web search capabilities us
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rchhabra13/portfolio-projects.git
-   cd portfolio-projects/multimodal_ai_agent
+   git clone https://github.com/rchhabra13/multimodal_ai_agent.git
+   cd multimodal_ai_agent
    ```
 
 2. **Install dependencies**
